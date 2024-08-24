@@ -42,6 +42,7 @@ For any questions or suggestions, feel free to reach out:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayurgohane/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mayurgohane19@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=flat&logo=medium)](https://medium.com/@Mayur_Gohane)
+[![X](https://img.shields.io/badge/X-Profile-black?style=flat&logo=x)](https://x.com/MayurGohane)
 
 ---
 
